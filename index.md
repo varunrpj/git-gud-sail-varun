@@ -11,7 +11,12 @@ add some more content here! maybe some bulleted action items?
 - action item 1
 - action item 2
 
+1. something
+2. something else
+
 ## or you can make another section here?
+
+*italicized __bolded__ thing*
 
 we encourage you to use the `preview changes` tab to see what your changes look like before committing the file.
 
